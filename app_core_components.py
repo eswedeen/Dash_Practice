@@ -44,7 +44,7 @@ app.layout = html.Div([
             {'label': 'New York City', 'value': 'NYC'},
             {'label': u'Montréal', 'value': 'MTL'},
             {'label': 'San Francisco', 'value': 'SF'}
-        ],
+        ],~
         value=['MTL', 'SF']
     ),
 
